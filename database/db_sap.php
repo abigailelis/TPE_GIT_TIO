@@ -16,6 +16,9 @@ Class dbController{
 	public function getProductosOrderByDate(){
 		//función para obtener todos los productos ordenados según fecha de publicación BBDD
 	}
+	public function getProductosOrderByDate(){
+		//función para obtener todos los productos ordenados según fecha de publicación BBDD
+	}
 }
 
 //verificación de fallos.
